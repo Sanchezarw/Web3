@@ -1,0 +1,33 @@
+body{
+  background-color:#FFA500 ;
+}
+hr{
+  border-style:none;
+  border-top-style:dashed;
+  border-color:#8A2BE2;
+  border-width: 5px;
+  width:75%;
+}
+.indexphoto{
+  height:250px;
+  width:250px;
+  border-style:inset;
+  border-radius:20px;
+  border-width:5px;
+  border-color:#00FFFF;
+}
+a{
+  font-family:cursive;
+  color:cyan;}
+  .sp1{
+    font-family:fantasy;
+  }
+  .sp1{
+    font-family:cursive;
+  }
+ .h1{
+   color:#1E90FF;
+ }
+h1{
+  color:orange;
+}
